@@ -1,0 +1,44 @@
+﻿Rep,Region,OrderDate,Item,Units,Unit Cost,Total
+Jones,East,06-01-2021,Pencil,95,1.99,189.05
+Kivell,Central,23-01-2021,Binder,50,19.99,999.5
+Jardine,Central,09-02-2021,Pencil,36,4.99,179.64
+Gill,Central,26-02-2021,Pen,27,19.99,539.73
+Sorvino,West,15-03-2021,Pencil,56,2.99,167.44
+Jones,East,01-04-2021,Binder,60,4.99,299.4
+Andrews,Central,18-04-2021,Pencil,75,1.99,149.25
+Jardine,Central,05-05-2021,Pencil,90,4.99,449.1
+Thompson,West,22-05-2021,Pencil,32,1.99,63.68
+Jones,East,08-06-2021,Binder,60,8.99,539.4
+Morgan,Central,25-06-2021,Pencil,90,4.99,449.1
+Howard,East,12-07-2021,Binder,29,1.99,57.71
+Parent,East,29-07-2021,Binder,81,19.99,1619.19
+Jones,East,15-08-2021,Pencil,35,4.99,174.65
+Smith,Central,01-09-2021,Desk,2,125,250
+Jones,East,18-09-2021,Pen Set,16,15.99,255.84
+Morgan,Central,05-10-2021,Binder,28,8.99,251.72
+Jones,East,22-10-2021,Pen,64,8.99,575.36
+Parent,East,08-11-2021,Pen,15,19.99,299.85
+Kivell,Central,25-11-2021,Pen Set,96,4.99,479.04
+Smith,Central,12-12-2021,Pencil,67,1.29,86.43
+Parent,East,29-12-2021,Pen Set,74,15.99,1183.26
+Gill,Central,15-01-2022,Binder,46,8.99,413.54
+Smith,Central,01-02-2022,Binder,87,15,1305
+Jones,East,18-02-2022,Binder,4,4.99,19.96
+Sorvino,West,07-03-2022,Binder,7,19.99,139.93
+Jardine,Central,24-03-2022,Pen Set,50,4.99,249.5
+Andrews,Central,10-04-2022,Pencil,66,1.99,131.34
+Howard,East,27-04-2022,Pen,96,4.99,479.04
+Gill,Central,14-05-2022,Pencil,53,1.29,68.37
+Gill,Central,31-05-2022,Binder,80,8.99,719.2
+Kivell,Central,17-06-2022,Desk,5,125,625
+Jones,East,04-07-2022,Pen Set,62,4.99,309.38
+Morgan,Central,21-07-2022,Pen Set,55,12.49,686.95
+Kivell,Central,07-08-2022,Pen Set,42,23.95,1005.9
+Sorvino,West,24-08-2022,Desk,3,275,825
+Gill,Central,10-09-2022,Pencil,7,1.29,9.03
+Sorvino,West,27-09-2022,Pen,76,1.99,151.24
+Thompson,West,14-10-2022,Binder,57,19.99,1139.43
+Andrews,Central,31-10-2022,Pencil,14,1.29,18.06
+Jardine,Central,17-11-2022,Binder,11,4.99,54.89
+Jardine,Central,04-12-2022,Binder,94,19.99,1879.06
+Andrews,Central,21-12-2022,Binder,28,4.99,139.72
